@@ -24,9 +24,10 @@ body{
 }
 .imageOne{
     display: block;
-    margin-left:13rem;
+    width: 40%;
+    margin-left:23rem;
     margin-right: auto;
-    width: 60%;
+
     height: auto;
     margin-bottom: 3rem;
   
@@ -141,4 +142,15 @@ h2{
     margin-left: 28rem;
     margin-top: 3rem;
     margin-bottom: 1rem; 
+}
+
+.social__icon{
+    width: 50px;
+    margin-top: 3rem;
+}
+
+.tech__image{
+    width: 50px;
+   margin-top: 1rem;
+   margin-bottom: 1rem;
 }
