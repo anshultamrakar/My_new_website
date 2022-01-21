@@ -1,10 +1,5 @@
-# NEW WEBSITE
+# Anshul's Portfolio website
 
-
-New websites for all level zero web dev projects 
-
-
-
-live demo  👇
+Live demo  👇
 
 https://anshultamrakardeveloper.netlify.app/
